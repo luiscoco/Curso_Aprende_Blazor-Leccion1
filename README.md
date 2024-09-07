@@ -1,4 +1,6 @@
-# CURSO: APRENDE BLAZOR. LECCIÓN 1: Cómo crear tu primera aplicación Blazor con Visual Studio 2022 y .NET 8
+# CURSO: APRENDE BLAZOR
+
+# LECCIÓN 1: Cómo crear tu primera aplicación Blazor con Visual Studio 2022 y .NET 8
 
 1. Instalar Visual Studio 2022 Community Edition
    (https://visualstudio.microsoft.com/es/vs/community/)
